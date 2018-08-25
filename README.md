@@ -2,6 +2,10 @@
 
 Preview and play [here](https://react-memory-emojis.netlify.com/).
 
+<p>
+    <img alt="awesome" src="public/preview.jpg" width="480" />
+</p><br/>
+
 Kudos to these awesome people and libraries:
 - [create-react-app](https://github.com/facebook/create-react-app)
 - [@Netlify](https://twitter.com/Netlify) - [netlify.com](https://www.netlify.com/)
