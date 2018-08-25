@@ -1,0 +1,39 @@
+{
+  "resources": [
+    "gameSounds2.m4a",
+    "gameSounds2.mp3",
+    "gameSounds2.ac3"
+  ],
+  "spritemap": {
+    "flip": {
+      "start": 0,
+      "end": 0.2531972789115646,
+      "loop": false
+    },
+    "flap": {
+      "start": 2,
+      "end": 2.2251927437641723,
+      "loop": false
+    },
+    "match": {
+      "start": 4,
+      "end": 4.884081632653062,
+      "loop": false
+    },
+    "win": {
+      "start": 6,
+      "end": 9.297256235827664,
+      "loop": false
+    },
+    "beep": {
+      "start": 11,
+      "end": 11.116802721088435,
+      "loop": false
+    },
+    "game-over": {
+      "start": 13,
+      "end": 15.368458049886621,
+      "loop": false
+    }
+  }
+}

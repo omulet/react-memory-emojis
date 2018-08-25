@@ -1,0 +1,29 @@
+{
+  "resources": [
+    "gameSounds.m4a",
+    "gameSounds.mp3",
+    "gameSounds.ac3"
+  ],
+  "spritemap": {
+    "flip": {
+      "start": 0,
+      "end": 0.2531972789115646,
+      "loop": false
+    },
+    "flap": {
+      "start": 2,
+      "end": 2.2251927437641723,
+      "loop": false
+    },
+    "match": {
+      "start": 4,
+      "end": 4.884081632653062,
+      "loop": false
+    },
+    "win": {
+      "start": 6,
+      "end": 9.297256235827664,
+      "loop": false
+    }
+  }
+}
