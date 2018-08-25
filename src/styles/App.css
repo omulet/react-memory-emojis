@@ -18,6 +18,9 @@ header {
   padding: 0 10px;
 }
 
+.time {
+  margin-right: 50px;
+}
 .time.danger{
   color: #dd1367;
 }

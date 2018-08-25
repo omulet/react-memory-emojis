@@ -7,3 +7,4 @@ Kudos to these awesome people and libraries:
 - [@Netlify](https://twitter.com/Netlify) - [netlify.com](https://www.netlify.com/)
 - [@bdc](https://twitter.com/bdc) - [animateplus](https://github.com/bendc/animateplus)
 - [@steveschoger](https://twitter.com/steveschoger) - [Hero Patterns](https://www.heropatterns.com/)
+- [Howler.js](https://howlerjs.com/)
